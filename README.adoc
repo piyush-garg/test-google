@@ -39,7 +39,6 @@ To update your booster:
 NOTE: To stop your running booster in a Linux or macOS terminal, use `CTRL+C`. In a Windows command prompt, you can use `CTRL + Break(pause)`.
 
 . Make your change (e.g. edit `public/index.html`).
-. Restart your booster.
 . Verify the change took effect.
 
 
